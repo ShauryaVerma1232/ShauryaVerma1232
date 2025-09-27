@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShauryaVerma1232
+- 👋 Hi, I’m Shaurya Verma
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning data science and python and basics of cybersecurity
 - 💞️ I’m looking to collaborate on data science projects
